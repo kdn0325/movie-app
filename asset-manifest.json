@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Move-app/static/css/main.8c443666.css",
+    "main.js": "/Move-app/static/js/main.63813b8d.js",
+    "index.html": "/Move-app/index.html",
+    "main.8c443666.css.map": "/Move-app/static/css/main.8c443666.css.map",
+    "main.63813b8d.js.map": "/Move-app/static/js/main.63813b8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c443666.css",
+    "static/js/main.63813b8d.js"
+  ]
+}
